@@ -36,6 +36,9 @@ while tries < 6:
                 if guess > 20 or guess < 1:
                     print('Incorrect Input. Guess must be a number between 1 and 20.')
                     valid = False #if the number is >20 or <1 it is not valid
+            if (float(val1) == 0): # need to check this because it is a special case
+                print('Incorrect Input. Guess must be a number between 1 and 20.')
+                valid = False #if the number is >20 or <1 it is not valid
         except:
             #this except catches non number input, tells the user it was incorrect,
             #and reprompts by sending it back to the beginning of this while loop
