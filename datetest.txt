@@ -1,0 +1,21 @@
+From cwen@iupui.edu Thu Jan  3 16:34:40 2008
+Return-Path: <postmaster@collab.sakaiproject.org>
+Received: from murder (mail.umich.edu [141.211.14.34])
+	 by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+	 Thu, 03 Jan 2008 16:34:40 -0500
+X-Sieve: CMU Sieve 2.3
+Received: from murder ([unix socket])
+	 by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+	 Thu, 03 Jan 2008 16:34:40 -0500
+Received: from icestorm.mr.itd.umich.edu (icestorm.mr.itd.umich.edu [141.211.93.149])
+	by chaos.mail.umich.edu () with ESMTP id m03LYdY1029538;
+	Thu, 3 Jan 2008 16:34:39 -0500
+Received: FROM paploo.uhi.ac.uk (app1.prod.collab.uhi.ac.uk [194.35.219.184])
+	BY icestorm.mr.itd.umich.edu ID 477D54EA.13F34.26602 ; 
+	 3 Jan 2008 16:34:36 -0500
+Received: from paploo.uhi.ac.uk (localhost [127.0.0.1])
+	by paploo.uhi.ac.uk (Postfix) with ESMTP id CC710ADC79;
+	Thu,  3 Jan 2008 21:34:29 +0000 (GMT)
+Message-ID: <200801032133.m03LX3gG005191@nakamura.uits.iupui.edu>
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
